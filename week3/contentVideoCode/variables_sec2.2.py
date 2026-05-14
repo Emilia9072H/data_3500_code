@@ -6,7 +6,7 @@ above and below, and everything in between is a comment.
 
 # interactive console
 # to use this, open new tab -> New Terminal -> type "python"
-# 
+# python
 
 print(3 + 5)
 
